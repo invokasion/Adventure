@@ -63,16 +63,6 @@ function LogIn(){
                     </div>
                 </div>
             </div>
-            <script type="text/javascript">
-                atOptions = {{
-                    'key' : '8d4a8ecf40384def52e40290ed853c59',
-                    'format' : 'iframe',
-                    'height' : 300,
-                    'width' : 160,
-                    'params' : {}
-                }};
-            </script>
-            <script type="text/javascript" src="//www.highperformanceformat.com/8d4a8ecf40384def52e40290ed853c59/invoke.js"></script>
         </div>
     );
 }
